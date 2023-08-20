@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React from Home FOldergit remote add origin
+          React from Home Folder
         </a>
       </header>
     </div>
